@@ -22,8 +22,8 @@ I am **Rakuten** (**ラクテン**), a **Computer Science student** from Hangzho
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
 
-## GitHub Stats
+## Links
 
-![Rakuten's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lentin1&show_icons=true&hide_border=true)
+- GitHub: https://github.com/Lentin1
 
 ⭐ From [Rakuten](https://github.com/Lentin1)
