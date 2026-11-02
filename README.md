@@ -1,6 +1,6 @@
 # Hi, I'm Rakuten 👋
 
-<a href="https://www.instagram.com/rakuten0129/" target="_blank"><img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;
+<a href="https://www.instagram.com/raku_utenn/" target="_blank"><img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;
 <a href="https://x.com/Lentini0129" target="_blank"><img alt="X" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;
 
 
